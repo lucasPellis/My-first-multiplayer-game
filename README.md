@@ -1,6 +1,6 @@
 <p align="center">
 
-    <img src="https://raw.githubusercontent.com//lucasPellis/NodeJS-multiplayer-game/master/preview.gif" width="550">
+    <img src="https://raw.githubusercontent.com/lucasPellis/NodeJS-multiplayer-game/master/preview.gif" width="550">
 
 </p>
 
